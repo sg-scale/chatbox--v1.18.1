@@ -272,7 +272,7 @@
     "remark-breaks": "^4.0.0",
     "remark-gfm": "^4.0.0",
     "remark-math": "^6.0.0",
-    "sanitize-filename": "^1.6.3",
+    "sanitize-filename": "^1.6.4",
     "shell-env": "^4.0.1",
     "shell-quote": "^1.8.2",
     "sonner": "^2.0.3",
